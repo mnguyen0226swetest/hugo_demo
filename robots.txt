@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://mnguyen0226swetest.github.io/hugo_demo/sitemap.xml
