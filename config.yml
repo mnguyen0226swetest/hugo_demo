@@ -24,21 +24,24 @@ languages:
           series: series
         menu:
             main:
-                - name: About
-                  url: about
-                  weight: 2
                 - name: Posts
-                  url: posts
+                  url: /
+                  weight: 1
+                - name: About
+                  url: about/
                   weight: 2
                 - name: Archive
                   url: archives
-                  weight: 5
+                  weight: 3
                 - name: Search
                   url: search/
-                  weight: 10
+                  weight: 5
+                - name: Categories
+                  url: categories/
+                  weight: 8
                 - name: Tags
                   url: tags/
-                  weight: 10
+                  weight: 8
 
 outputs:
     home:
@@ -75,8 +78,8 @@ params:
           url: "https://ko-fi.com/adityatelange"
         - name: github
           url: "https://github.com/adityatelange/hugo-PaperMod"
-        - name: Rss
-          url: "index.xml"
+        - name: kaggle
+          url: "https://www.kaggle.com/minhbtnguyen"
 
     # editPost:
     #     URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
