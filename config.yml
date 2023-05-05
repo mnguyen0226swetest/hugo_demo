@@ -1,0 +1,4 @@
+baseURL: "https://mnguyen0226swetest.github.io/hugo_demo"
+languageCode: en-us
+title: My New Hugo Site
+theme: PaperMod
