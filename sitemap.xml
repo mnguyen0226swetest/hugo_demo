@@ -2,19 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mnguyen0226swetest.github.io/hugo_demo/docs/</loc>
+    <loc>https://mnguyen0226swetest.github.io/hugo_demo/posts/test_1/</loc>
+    <lastmod>2023-05-05T15:57:04-04:00</lastmod>
+  </url><url>
+    <loc>https://mnguyen0226swetest.github.io/hugo_demo/posts/test_2/</loc>
     <lastmod>2023-05-05T13:04:54-04:00</lastmod>
   </url><url>
-    <loc>https://mnguyen0226swetest.github.io/hugo_demo/</loc>
-    <lastmod>2023-05-05T13:04:54-04:00</lastmod>
-  </url><url>
-    <loc>https://mnguyen0226swetest.github.io/hugo_demo/docs/test/</loc>
-    <lastmod>2023-05-05T13:04:54-04:00</lastmod>
+    <loc>https://mnguyen0226swetest.github.io/hugo_demo/about/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mnguyen0226swetest.github.io/hugo_demo/categories/</loc>
+    <lastmod>2023-05-05T15:57:04-04:00</lastmod>
+  </url><url>
+    <loc>https://mnguyen0226swetest.github.io/hugo_demo/tags/css/</loc>
+    <lastmod>2023-05-05T15:57:04-04:00</lastmod>
+  </url><url>
+    <loc>https://mnguyen0226swetest.github.io/hugo_demo/tags/html/</loc>
+    <lastmod>2023-05-05T15:57:04-04:00</lastmod>
+  </url><url>
+    <loc>https://mnguyen0226swetest.github.io/hugo_demo/tags/markdown/</loc>
+    <lastmod>2023-05-05T15:57:04-04:00</lastmod>
+  </url><url>
+    <loc>https://mnguyen0226swetest.github.io/hugo_demo/</loc>
+    <lastmod>2023-05-05T15:57:04-04:00</lastmod>
+  </url><url>
+    <loc>https://mnguyen0226swetest.github.io/hugo_demo/posts/</loc>
+    <lastmod>2023-05-05T15:57:04-04:00</lastmod>
   </url><url>
     <loc>https://mnguyen0226swetest.github.io/hugo_demo/series/</loc>
+    <lastmod>2023-05-05T15:57:04-04:00</lastmod>
+  </url><url>
+    <loc>https://mnguyen0226swetest.github.io/hugo_demo/categories/syntax/</loc>
+    <lastmod>2023-05-05T15:57:04-04:00</lastmod>
   </url><url>
     <loc>https://mnguyen0226swetest.github.io/hugo_demo/tags/</loc>
+    <lastmod>2023-05-05T15:57:04-04:00</lastmod>
+  </url><url>
+    <loc>https://mnguyen0226swetest.github.io/hugo_demo/tags/themes/</loc>
+    <lastmod>2023-05-05T15:57:04-04:00</lastmod>
+  </url><url>
+    <loc>https://mnguyen0226swetest.github.io/hugo_demo/categories/themes/</loc>
+    <lastmod>2023-05-05T15:57:04-04:00</lastmod>
+  </url><url>
+    <loc>https://mnguyen0226swetest.github.io/hugo_demo/series/themes-guide/</loc>
+    <lastmod>2023-05-05T15:57:04-04:00</lastmod>
+  </url><url>
+    <loc>https://mnguyen0226swetest.github.io/hugo_demo/tags/about-me/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mnguyen0226swetest.github.io/hugo_demo/series/about-me/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mnguyen0226swetest.github.io/hugo_demo/categories/my-experience/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mnguyen0226swetest.github.io/hugo_demo/archives/</loc>
+  </url><url>
+    <loc>https://mnguyen0226swetest.github.io/hugo_demo/search/</loc>
   </url>
 </urlset>
