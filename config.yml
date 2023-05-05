@@ -69,9 +69,15 @@ params:
     images: ["papermod-cover.png"]
 
     homeInfoParams:
-        Title: "👋 Hello (Xin Chào)"
+        Title: "👋 Hello, there (Xin Chào)"
         Content: >
-            Hi, this is Minh. I'm documenting my career and learning notes in this blog. I'm a M.Sc. student at Virginia Tech majoring in Computer Engineering.
+            - ☕ Hi, this is Minh. I'm documenting my career and learning notes in this blog. 
+            
+            - 👀 **I am currently looking for software engineer / machine learning / data science internship opportunities in summer 2023 and/or fall 2023.**
+
+            - 🤝 Let's connect and discuss how I can provide service to your team! 
+
+            - 📨 I am best reached via **mnguyen0226@vt.edu** or via direct message on **LinkedIn**.
 
     socialIcons:
         - name: linkedin
@@ -96,12 +102,12 @@ params:
     #         SiteVerificationTag: "XYZabc"
 
     assets:
-        disableHLJS: true
-    #     favicon: "<link / abs url>"
-    #     favicon16x16: "<link / abs url>"
-    #     favicon32x32: "<link / abs url>"
-    #     apple_touch_icon: "<link / abs url>"
-    #     safari_pinned_tab: "<link / abs url>"
+        disableHLJS: false
+        favicon: "favicon/android-chrome-192x192.png"
+        favicon16x16: "favicon/android-chrome-192x192.png"
+        favicon32x32: "favicon/android-chrome-192x192.png"
+        apple_touch_icon: "favicon/android-chrome-192x192.png"
+        safari_pinned_tab: "favicon/android-chrome-192x192.png"
 
     # cover:
     #     hidden: true # hide everywhere but not in structured data
