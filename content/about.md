@@ -32,6 +32,8 @@ weight: 2
         <summary>▪ ABC</summary>
         <summary>▪ ABC</summary>
     </blockquote></details>
+    <summary>▪ <a href="https://github.com/mnguyen0226/bookstore_js">Poster</a>.</summary>
+    <summary>▪ <a href="https://github.com/mnguyen0226/bookstore_js">Presentation</a>.</summary>
 </blockquote></details>
 
 <details><summary><strong>Machine Learning Intern</strong> @ Heron Systems (Shield AI Subsidiary) </summary><blockquote>
@@ -124,7 +126,30 @@ weight: 2
 
 </blockquote></details>
 
+## 📜 Publication
+- <p>"DeepH20: Cyber attack detection in water distribution systems using deep learning." Nazmul Sikder, <strong>Minh T. Nguyen</strong>, Donald Elliot, Feras Batarseh. Elsevier's Journal of Water Process Engineering (Vol 52.) (04/2023). <a href="https://www.sciencedirect.com/science/article/abs/pii/S2214714423000855?dgcid=coauthor">Link.</a></p>
+
 ## 💻 Projects
+<details><summary><strong>Books.JBP</strong></summary><blockquote>
+    <summary>image</summary>
+    <summary>▪ Developed a single-page full-stack e-commerce web app; followed DAO pattern and SOLID principles.</summary>
+    <summary><em><strong>▪ Tech Stack:</strong></em> Java, Vue.js, MySQL, Figma.</summary>
+    <summary>▪ <a href="https://github.com/mnguyen0226/bookstore_js">Github</a>.</summary>
+</blockquote></details>
+
+<details><summary><strong>Flask-Y</strong></summary><blockquote>
+    <summary>image</summary>
+    <summary>▪ Developed a single-page full-stack e-commerce web app; followed DAO pattern and SOLID principles.</summary>
+    <summary><em><strong>▪ Tech Stack:</strong></em> Java, Vue.js, MySQL, Figma.</summary>
+    <summary>▪ <a href="https://github.com/mnguyen0226/bookstore_js">Github</a>.</summary>
+</blockquote></details>
+
+<details><summary><strong>Smart Home Simulation</strong></summary><blockquote>
+    <summary>image</summary>
+    <summary>▪ Developed a single-page full-stack e-commerce web app; followed DAO pattern and SOLID principles.</summary>
+    <summary><em><strong>▪ Tech Stack:</strong></em> Java, Vue.js, MySQL, Figma.</summary>
+    <summary>▪ <a href="https://github.com/mnguyen0226/bookstore_js">Github</a>.</summary>
+</blockquote></details>
 
 ## 🙌 Volunteers
 <details><summary><strong>President</strong> @ Teaching Robotics & Engineering Club at Virginia Tech</summary><blockquote>
