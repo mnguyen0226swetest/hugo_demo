@@ -2,7 +2,7 @@
 author: "Minh T. Nguyen"
 title: "About Me"
 date: "2023-03-11"
-tags: ["about me", "experience", "tools", "education", "volunteers"]
+tags: ["about me", "experience", "skills", "education", "publication", "project", "volunteer"]
 categories: ["Experience"]
 series: ["My Experience"]
 aliases: ["migrate-from-jekyl"]
@@ -100,7 +100,7 @@ weight: 2
     <summary>▪ Date: 05/2020 - 05/2021.</summary>
     <summary>▪ Location: Blacksburg, Virginia.</summary>
     <details><summary><strong>Responsibilities</strong></summary><blockquote>
-        <summary>▪ Assisted instructors in grading assignments and mentoring 25 students in the semester-long Smart Home Simulation project..</summary>
+        <summary>▪ Assisted instructors in grading assignments and mentoring 25 students in the semester-long Smart Home Simulation project.</summary>
     </blockquote></details>
 </blockquote></details>
 
