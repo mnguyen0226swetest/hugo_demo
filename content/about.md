@@ -2,7 +2,7 @@
 author: "Minh T. Nguyen"
 title: "About Me"
 date: "2023-03-11"
-tags: ["about me", "experience", "skills", "education", "publication", "project", "volunteer"]
+tags: ["about me"]
 categories: ["Experience"]
 series: ["My Experience"]
 aliases: ["migrate-from-jekyl"]
@@ -198,6 +198,22 @@ weight: 2
     <summary>▪ Designed, built, and tested hardware simulation with 8 automated sensors, controlled wirelessly via an Android mobile app.</summary>
     <summary>▪ Appointed to class's teaching assistant by professor due to project's design, presentation, report, and assistance to classmates.</summary>
     <summary>▪ <a href="https://github.com/mnguyen0226/smart-home-simulation">Github</a>.</summary>
+</blockquote></details>
+
+## 🏅 Awards
+<details><summary><strong>FLAIRS-35</strong></summary><blockquote>
+    <summary>▪ Best journal poster for ML applications in cyberbiosecurity, awarded by juries amongst 40+ submissions.</summary>
+    <summary>▪ <a href="https://journals.flvc.org/FLAIRS/article/view/130664">Link</a>.</summary>
+</blockquote></details>
+
+<details><summary><strong>Turing Fellowship @ Commonwealth Cyber Initiatives</strong></summary><blockquote>
+    <summary>▪ Awarded AI Fellowship out of 21 universities in the Commonwealth of Virginia state.</summary>
+    <summary>▪ <a href="https://cyberinitiative.org/cci-news/2020/cci-and-virginia-techs-research-institute-undergrad-research-positions.html">Link</a>.</summary>
+</blockquote></details>
+
+<details><summary><strong>Geo Fellowship @ Geo Lab</strong></summary><blockquote>
+    <summary>▪ One of 30 fellows (out of 150 applicants) for the US's largest geospatial data security lab.</summary>
+    <summary>▪ <a href="https://www.wm.edu/as/_redirects/data-science/researchlabs/geolab/cci/?q=as+data-science+researchlabs+geolab+cci">Link</a>.</summary>
 </blockquote></details>
 
 ## 🙌 Volunteers
