@@ -75,20 +75,38 @@
     </item>
     
     <item>
-      <title>tools</title>
-      <link>https://mnguyen0226swetest.github.io/hugo_demo/tags/tools/</link>
+      <title>project</title>
+      <link>https://mnguyen0226swetest.github.io/hugo_demo/tags/project/</link>
       <pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://mnguyen0226swetest.github.io/hugo_demo/tags/tools/</guid>
+      <guid>https://mnguyen0226swetest.github.io/hugo_demo/tags/project/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>volunteers</title>
-      <link>https://mnguyen0226swetest.github.io/hugo_demo/tags/volunteers/</link>
+      <title>publication</title>
+      <link>https://mnguyen0226swetest.github.io/hugo_demo/tags/publication/</link>
       <pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://mnguyen0226swetest.github.io/hugo_demo/tags/volunteers/</guid>
+      <guid>https://mnguyen0226swetest.github.io/hugo_demo/tags/publication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>skills</title>
+      <link>https://mnguyen0226swetest.github.io/hugo_demo/tags/skills/</link>
+      <pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mnguyen0226swetest.github.io/hugo_demo/tags/skills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>volunteer</title>
+      <link>https://mnguyen0226swetest.github.io/hugo_demo/tags/volunteer/</link>
+      <pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mnguyen0226swetest.github.io/hugo_demo/tags/volunteer/</guid>
       <description></description>
     </item>
     
