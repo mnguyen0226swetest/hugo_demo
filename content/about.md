@@ -146,7 +146,11 @@ weight: 2
 </blockquote></details>
 
 <details><summary><strong>Smart Home Simulation</strong></summary><blockquote>
-    <summary><img src="/images/arduino_circuit_advanced_sm.png" alt="Smart Home Image" style="width:500px;height:600px;"></summary>
+    <summary style="display: flex">
+        <img src="https://raw.githubusercontent.com/mnguyen0226swetest/hugo_demo/main/content/images/arduino_circuit_advanced_sm.png" alt="Smart Home Image" style="height:200px;">
+        &nbsp
+        <img src="https://raw.githubusercontent.com/mnguyen0226swetest/hugo_demo/main/content/images/arduino_circuit_advanced_sm.png" alt="Smart Home Image" style="height:200px;">
+    </summary>
     <summary>▪ Designed, built, and tested hardware simulation with 8 automated sensors, controlled wirelessly via an Android mobile app.</summary>
     <summary>▪ Appointed to class's teaching assistant by professor due to project's design, presentation, report, and assistance to classmates.</summary>
     <summary><em><strong>▪ Tech Stack:</strong></em> C++, Circuit Design, Arduino, MIT Mobile App Inventor.</summary>
