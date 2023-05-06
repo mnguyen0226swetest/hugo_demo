@@ -86,6 +86,9 @@ params:
           url: "https://github.com/mnguyen0226"
         - name: kaggle
           url: "https://www.kaggle.com/minhbtnguyen"
+        - name: email
+          url: "mnguyen0226@vt.edu"
+
 
     # editPost:
     #     URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
