@@ -1,34 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Minh T. Nguyen</title>
-    <link>https://mnguyen0226swetest.github.io/hugo_demo/</link>
-    <description>Recent content on Minh T. Nguyen</description>
+    <title>education on Minh T. Nguyen</title>
+    <link>https://mnguyen0226swetest.github.io/hugo_demo/tags/education/</link>
+    <description>Recent content in education on Minh T. Nguyen</description>
     <image>
       <title>Minh T. Nguyen</title>
       <url>https://mnguyen0226swetest.github.io/hugo_demo/papermod-cover.png</url>
       <link>https://mnguyen0226swetest.github.io/hugo_demo/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 05 May 2023 15:57:04 -0400</lastBuildDate><atom:link href="https://mnguyen0226swetest.github.io/hugo_demo/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Test 1</title>
-      <link>https://mnguyen0226swetest.github.io/hugo_demo/posts/test_1/</link>
-      <pubDate>Fri, 05 May 2023 15:57:04 -0400</pubDate>
-      
-      <guid>https://mnguyen0226swetest.github.io/hugo_demo/posts/test_1/</guid>
-      <description>Sample Post 1.</description>
-    </item>
-    
-    <item>
-      <title>Test 2</title>
-      <link>https://mnguyen0226swetest.github.io/hugo_demo/posts/test_2/</link>
-      <pubDate>Fri, 05 May 2023 13:04:54 -0400</pubDate>
-      
-      <guid>https://mnguyen0226swetest.github.io/hugo_demo/posts/test_2/</guid>
-      <description>Sample Post 2.</description>
-    </item>
-    
+    <lastBuildDate>Sat, 11 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mnguyen0226swetest.github.io/hugo_demo/tags/education/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
       <link>https://mnguyen0226swetest.github.io/hugo_demo/about/</link>
@@ -37,8 +19,6 @@
       <guid>https://mnguyen0226swetest.github.io/hugo_demo/about/</guid>
       <description>👨‍💻 Experience Graduate Research Assistant @ Deloitte Touches x Commonwealth Cyber Initiatives ▪ Date: 05/2022 - 08/2022. ▪ Location: Arlington, Virginia. ▪ Tech Stack: Python, Tensorflow, Matplotlib, Pandas, Seaborn. Responsibilities ▪ ABC ▪ ABC Research Assistant @ Terrestrial Robotics Engineering &amp; Controls Lab (Virginia Tech) ▪ Date: 09/2021 - 05/2022. ▪ Location: Blacksburg, Virginia. ▪ Tech Stack: C#, C++, Unity. Responsibilities ▪ ABC ▪ ABC Machine Learning Intern @ Heron Systems (Shield AI Subsidiary) ▪ Date: 05/2021 - 08/2021.</description>
     </item>
-    
-    
     
   </channel>
 </rss>
