@@ -12,38 +12,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 05 May 2023 15:57:04 -0400</lastBuildDate><atom:link href="https://mnguyen0226swetest.github.io/hugo_demo/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>css</title>
-      <link>https://mnguyen0226swetest.github.io/hugo_demo/tags/css/</link>
+      <title>test</title>
+      <link>https://mnguyen0226swetest.github.io/hugo_demo/tags/test/</link>
       <pubDate>Fri, 05 May 2023 15:57:04 -0400</pubDate>
       
-      <guid>https://mnguyen0226swetest.github.io/hugo_demo/tags/css/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>html</title>
-      <link>https://mnguyen0226swetest.github.io/hugo_demo/tags/html/</link>
-      <pubDate>Fri, 05 May 2023 15:57:04 -0400</pubDate>
-      
-      <guid>https://mnguyen0226swetest.github.io/hugo_demo/tags/html/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>markdown</title>
-      <link>https://mnguyen0226swetest.github.io/hugo_demo/tags/markdown/</link>
-      <pubDate>Fri, 05 May 2023 15:57:04 -0400</pubDate>
-      
-      <guid>https://mnguyen0226swetest.github.io/hugo_demo/tags/markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>themes</title>
-      <link>https://mnguyen0226swetest.github.io/hugo_demo/tags/themes/</link>
-      <pubDate>Fri, 05 May 2023 15:57:04 -0400</pubDate>
-      
-      <guid>https://mnguyen0226swetest.github.io/hugo_demo/tags/themes/</guid>
+      <guid>https://mnguyen0226swetest.github.io/hugo_demo/tags/test/</guid>
       <description></description>
     </item>
     
@@ -53,60 +26,6 @@
       <pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>https://mnguyen0226swetest.github.io/hugo_demo/tags/about-me/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>education</title>
-      <link>https://mnguyen0226swetest.github.io/hugo_demo/tags/education/</link>
-      <pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://mnguyen0226swetest.github.io/hugo_demo/tags/education/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>experience</title>
-      <link>https://mnguyen0226swetest.github.io/hugo_demo/tags/experience/</link>
-      <pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://mnguyen0226swetest.github.io/hugo_demo/tags/experience/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>project</title>
-      <link>https://mnguyen0226swetest.github.io/hugo_demo/tags/project/</link>
-      <pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://mnguyen0226swetest.github.io/hugo_demo/tags/project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>publication</title>
-      <link>https://mnguyen0226swetest.github.io/hugo_demo/tags/publication/</link>
-      <pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://mnguyen0226swetest.github.io/hugo_demo/tags/publication/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>skills</title>
-      <link>https://mnguyen0226swetest.github.io/hugo_demo/tags/skills/</link>
-      <pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://mnguyen0226swetest.github.io/hugo_demo/tags/skills/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>volunteer</title>
-      <link>https://mnguyen0226swetest.github.io/hugo_demo/tags/volunteer/</link>
-      <pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://mnguyen0226swetest.github.io/hugo_demo/tags/volunteer/</guid>
       <description></description>
     </item>
     
