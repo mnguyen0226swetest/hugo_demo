@@ -139,16 +139,18 @@ weight: 2
 
 <details><summary><strong>Flask-Y</strong></summary><blockquote>
     <summary>image</summary>
-    <summary>▪ Developed a single-page full-stack e-commerce web app; followed DAO pattern and SOLID principles.</summary>
-    <summary><em><strong>▪ Tech Stack:</strong></em> Java, Vue.js, MySQL, Figma.</summary>
-    <summary>▪ <a href="https://github.com/mnguyen0226/bookstore_js">Github</a>.</summary>
+    <summary>▪ Redesigned Y Combinator's Hacker News to be more user-friendly (Reddit style).</summary>
+    <summary>▪ Developed a multi-page full-stack media web app that allows multiple users to sign-up, login, and manage/comment/vote posts.</summary>
+    <summary><em><strong>▪ Tech Stack:</strong></em> Python, Javascript, MySQL, Flask API, Werkzeug API, CKEditor API, Bootstrap 5.</summary>
+    <summary>▪ <a href="https://github.com/mnguyen0226/flask_y">Github</a>.</summary>
 </blockquote></details>
 
 <details><summary><strong>Smart Home Simulation</strong></summary><blockquote>
-    <summary>image</summary>
-    <summary>▪ Developed a single-page full-stack e-commerce web app; followed DAO pattern and SOLID principles.</summary>
-    <summary><em><strong>▪ Tech Stack:</strong></em> Java, Vue.js, MySQL, Figma.</summary>
-    <summary>▪ <a href="https://github.com/mnguyen0226/bookstore_js">Github</a>.</summary>
+    <summary><img src="/images/arduino_circuit_advanced_sm.png" alt="Smart Home Image" style="width:500px;height:600px;"></summary>
+    <summary>▪ Designed, built, and tested hardware simulation with 8 automated sensors, controlled wirelessly via an Android mobile app.</summary>
+    <summary>▪ Appointed to class's teaching assistant by professor due to project's design, presentation, report, and assistance to classmates.</summary>
+    <summary><em><strong>▪ Tech Stack:</strong></em> C++, Circuit Design, Arduino, MIT Mobile App Inventor.</summary>
+    <summary>▪ <a href="https://github.com/mnguyen0226/smart-home-simulation">Github</a>.</summary>
 </blockquote></details>
 
 ## 🙌 Volunteers
